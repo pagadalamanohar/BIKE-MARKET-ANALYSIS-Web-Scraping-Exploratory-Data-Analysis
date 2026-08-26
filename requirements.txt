@@ -1,1 +1,10 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+jupyter
+openpyxl
